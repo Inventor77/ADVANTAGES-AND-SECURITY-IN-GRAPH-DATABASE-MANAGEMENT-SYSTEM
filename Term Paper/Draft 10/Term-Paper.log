@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.13)  18 APR 2022 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.13)  18 APR 2022 23:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -719,22 +719,22 @@ Overfull \hbox (9.97351pt too wide) in paragraph at lines 142--156
 \T1/futs/m/n/14.4 (-20) This study pro-vides a se-cu-rity model for a NoSQL graph-oriented database
  []
 
-[6] [7] [8] [9] (Term-Paper.aux)
+[6] [7] [8] (Term-Paper.aux)
 Package rerunfilecheck Info: File `Term-Paper.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15940 strings out of 478847
- 269475 string characters out of 2851551
+ 15927 strings out of 478847
+ 269354 string characters out of 2851551
  749031 words of memory out of 3000000
  33315 multiletter control sequences out of 15000+600000
- 490700 words of font info for 229 fonts, out of 8000000 for 9000
+ 489890 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,11n,108p,10735b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/inventor/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/inventor/.miktex/texmfs/install/fonts/type1/adobe/utopia/putb8a.pfb></home/inventor/.miktex/texmfs/install/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on Term-Paper.pdf (9 pages, 59281 bytes).
+Output written on Term-Paper.pdf (8 pages, 57378 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  78425 words of extra memory for PDF output out of 89155 (max. 10000000)
 
