@@ -147,7 +147,7 @@ INPUT /home/inventor/.miktex/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
 INPUT /home/inventor/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/inventor/.miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
 OUTPUT Term-Paper.pdf
-INPUT /home/inventor/.miktex/texmfs/data/pdftex/config/pdftex.map
+INPUT /home/inventor/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT /home/inventor/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/inventor/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/inventor/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1200.tfm
