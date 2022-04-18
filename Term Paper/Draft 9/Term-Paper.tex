@@ -156,17 +156,16 @@ The results revealed that access restrictions were correctly imposed, preventing
 \section{Graph database-based data storage rules}
 The node, label, relationship, and property are the four core data structures of Neo4j. Entity information is often stored in the node. Each node can have numerous labels for indexing and some model constraints. The relationship is what ties the nodes together, and there might be several relationships between two nodes in different ways. Both nodes and relationships can have one or more key-value pairs as properties. As a result, we suggest the following modelling principles, which are based on the hierarchical multi-domain NSSA model and the Neo4j data structure:
 \subsection {Node}
-A node is a creature or item that interacts with the outside world. All objects that are associated to other nodes are viewed as a single node for ease of processing and data analysis, and the node is given the entity or object's name.
+
 
 \subsection {Label}
-Because each node can have one or more labels, we utilise the name of the domain or domains as the node label when a node belongs to a certain domain or domains. We can also add the node's category labels for query management at the same time, and label names are all capital letters.
 
-\newpage
+
 \subsection {Property}
-The information of a node that does not interact with other nodes is called property. The name of the node and the metadata of some required item or object are both considered properties. One or more key-value pairs are used to represent a property.
+
 
 \subsection {Relationship}
-Communication, subordination, and connection are examples of relationships. The nodes can have one or more separate directed relationships, and neither the start nor the end node can be null. Although each connection can have one or more attributes, it can only have one type, and the relationship type's name must be in capital letters.
+
 
 \section{Conclusion}
 
